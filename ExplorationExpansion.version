@@ -1,0 +1,41 @@
+{
+	"NAME"			 : "Exploration Expansion (LEE) by LazTek",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ExplorationExpansion/master/ExplorationExpansion.version",
+	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/ExplorationExpansion/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ExplorationExpansion/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "ExplorationExpansion",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 9,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 90,
+		"PATCH" : 0
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 90,
+		"PATCH" : 0
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "ExplorationExpansion",
+		"DIRECTORY" : "LazTek/ExplorationExpansion"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
+	}
+}
