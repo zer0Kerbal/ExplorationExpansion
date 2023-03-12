@@ -9,9 +9,9 @@ updated: 17 Feb 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Exploration Expansion (LEE)][MOD:shd]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Exploration Expansion (LEE)][SHD:mod]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] 
-[![Pages][PAGES:shd]][pages]
+[![Pages][SHD:pages]][pages]
 
 
 # Exploration Expansion (LEE)
@@ -26,9 +26,9 @@ NOTE: only the normal textures are included, the 'HD' / 'LD' textures are availa
 
 ### Preamble by [LazarusLuan][LazarusLuan]
 
-> The LaxTek Exploration Expansion Kit is designed as an add-on for our LazTek Launch Pack, and the included .craft files require the installation of the Launch Pack to load correctly.
+> The LazTek Exploration Expansion Kit is designed as an add-on for our LazTek Launch Pack, and the included .craft files require the installation of the Launch Pack to load correctly.
 >
-> Available for download in low, medium and high resolution versions, these mods include replicas of the new SpaceX Dragon V2 capsule and trunk, SpaceX Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Exploration Expansion, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the SpaceX Exploration Expansion for access to the original DragonRider concept spacecraft.
+> Available for download in low, medium and high resolution versions, these mods include replicas of the new LazTek Dragon V2 capsule and trunk, LazTek Falcon 9 v1.1 and Falcon Heavy launch platforms, proposed Exploration Expansion, plus special configurations for exploration, asteroid redirection, refueling, colonization and more! Add the LazTek Exploration Expansion for access to the original DragonRider concept spacecraft.
 
 ### Included
 
@@ -71,7 +71,7 @@ NOTE: only the normal textures are included, the 'HD' / 'LD' textures are availa
 
 ### See more
 
->* [Dragon 2 wiki](https://en.wikipedia.org/wiki/SpaceX_Dragon_2)
+>* [Dragon 2 wiki](https://en.wikipedia.org/wiki/LazTek_Dragon_2)
 >* [Falcon 9 wiki](https://en.wikipedia.org/wiki/Falcon_9)
 >* [GitHub Pages][pages]
 >* [Marketing Slicks][markt]
@@ -199,7 +199,7 @@ parts, config
 Comment, click, like, share, up-vote, subscribe
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
-> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
 
@@ -216,8 +216,8 @@ Comment, click, like, share, up-vote, subscribe
 [parts]: https://zer0kerbal.github.io/ExplorationExpansion/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
-[MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExplorationExpansion/master/json/mod.json
-[PAGES:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExplorationExpansion/master/json/mod.json
+[SHD:pages]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ExplorationExpansion "CurseForge"
