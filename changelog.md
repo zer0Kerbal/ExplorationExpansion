@@ -20,6 +20,6 @@
 
 * Issues
   * closes #7 - Archival Releases
-  * closes #32 - 0.9.0.0-release
+  * closes #12 - 0.9.0.0-release
 
 ---
