@@ -59,6 +59,12 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Create
   * [ExplorationExpansion.cfg] v1.0.0.0
     * adds localized tags to parts
+* closes #8 - Create Localization directory and contents
+* closes #10 - Create <ExplorationExpansion.cfg>
+* closes #14 - English <en-us.cfg>
+* closes #31 - Part Localization
+* closes #32 - Part Tags
+* updates #13 - Localization - Master
 
 ### Parts 0.9.99.0
 
@@ -97,6 +103,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * size reduction
   * archive size reduced from 5.6mb --> mb
   * disk size reduced from 55.7mb --> mb
+* closes #9 - Part Asset Updates
 
 ### Documentation 0.9.99.0
 
@@ -113,17 +120,23 @@ CC BY-ND 4.0 by zer0Kerbal -->
     * [Part-Catalog.md] v1.1.4.1
     * [Why.md] v1.1.0.0
   * docs/thumbs
+* closes #5 - Create GitHub Pages
 
 ### Cover image 0.9.99.0
 
 * Create HeroLogo/Cover image
+* closes #6 - Create HeroLogo.png
 
 ### Status 0.9.99.0
 
 * Issues
+  * closes #1 - Exploration Expansion (LEE) 0.9.99.0-adoption `<Thank you LazarusLuan>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+  * closes #11 - Update License
 
 ---
-
 
 ## Version 0.9.0.0-release - `<Archival>` edition
 
