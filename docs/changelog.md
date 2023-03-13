@@ -41,7 +41,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * Laztek's Launch Pack
 * size reduction
   * archive size reduced from 24.5 mb --> 14 mb
-  * disk size reduced from 329mb --> 120 mb
+  * disk size reduced from 329 mb --> 120 mb
 
 ### Archival Releases
 
