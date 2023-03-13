@@ -16,7 +16,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Exploration Expansion (LEE)
 
-11 piece add-on planetary exploration parts pack for the LazTek Launch Pack that includes advanced engines, a habitat, fuel tanks and fairings.
+12 piece add-on planetary exploration parts pack for the LazTek Launch Pack that includes advanced engines, a habitat, fuel tanks and fairings.
 
 NOTE: only the normal textures are included, the 'HD' / 'LD' textures are available to download and use instead. Only one is intended to be used at once, and in fact installing another should replace the existing textures.
 
