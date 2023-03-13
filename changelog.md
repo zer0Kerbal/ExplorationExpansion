@@ -17,7 +17,7 @@
 ### Summary 0.9.99.0
 
 * Not everything is updated, but the important things should be
-* Pod's IVA is included, but basic-er
+* Habitat's IVA is included, but basic-er
 * Stock Balance pass needed
 * loads of behind the scenes changes
 * Standard assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) are available (LD and MD)
@@ -27,10 +27,9 @@
 * Dependencies:
   * LazTek Dev
   * Laztek's Launch Pack
-  * Laztek's Exploration Expansion
 * size reduction
-  * archive size reduced from 5.6mb --> 3.1mb
-  * disk size reduced from 55mb --> 19mb
+  * archive size reduced from 24.5 mb --> 14 mb
+  * disk size reduced from 329mb --> 120 mb
 
 ### Archival Releases
 
